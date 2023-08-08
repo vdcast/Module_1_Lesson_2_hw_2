@@ -1,9 +1,9 @@
 # Module_1_Lesson_2_hw_2
-Lesson's topic:
+**Lesson's topic:**
 
 Operators: arithmetic, logical, comparisons.
 
-Technical task:
+**Technical task:**
 
 Make a temperature controller in the room, i.e. a program that would receive a temperature value at the input, and output it to the log at the output:
 “Cold, turn on the heater” - if the temperature is less than 18 degrees.
