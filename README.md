@@ -10,4 +10,6 @@ Make a temperature controller in the room, i.e. a program that would receive a t
 “It's hot, I turn on the air conditioner” - if the temperature is more than 28 degrees.
 “Comfortable temperature” - if the temperature is between 18 and 28 degrees.
 
+**Result:**
+
 ![image](https://github.com/vdcast/Module_1_Lesson_2_hw_2/assets/108469609/b2d545af-d5ec-42c7-ba59-e869bf611aee)
